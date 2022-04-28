@@ -1,0 +1,47 @@
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\Lab06.exe
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\Lab06.deps.json
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\Lab06.runtimeconfig.json
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\Lab06.runtimeconfig.dev.json
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\Lab06.dll
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\ref\Lab06.dll
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\bin\Debug\net5.0\Lab06.pdb
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.AssemblyInfoInputs.cache
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.AssemblyInfo.cs
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.csproj.CoreCompileInputs.cache
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.dll
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\ref\Lab06.dll
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.pdb
+D:\currentdisk\Download\Telegram Desktop\lab6csharp\obj\Debug\net5.0\Lab06.genruntimeconfig.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\Lab06.exe
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\Lab06.deps.json
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\Lab06.runtimeconfig.json
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\Lab06.runtimeconfig.dev.json
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\ref\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\bin\Debug\net5.0\Lab06.pdb
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.csproj.AssemblyReference.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.AssemblyInfoInputs.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.AssemblyInfo.cs
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\ref\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.pdb
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp\obj\Debug\net5.0\Lab06.genruntimeconfig.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\Lab06.exe
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\Lab06.deps.json
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\Lab06.runtimeconfig.json
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\Lab06.runtimeconfig.dev.json
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\ref\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\bin\Debug\net5.0\Lab06.pdb
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.csproj.AssemblyReference.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.AssemblyInfoInputs.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.AssemblyInfo.cs
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\ref\Lab06.dll
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.pdb
+D:\currentdisk\University\Програмування Дискретних Структур\lab6csharp — копия\obj\Debug\net5.0\Lab06.genruntimeconfig.cache
