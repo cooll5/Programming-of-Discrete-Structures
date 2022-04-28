@@ -23,39 +23,6 @@ namespace Lab06
 
             g.WriteIncident(IncMatrix);
             g.WriteSumizhn(sMatrix);
-
-            //7степінь вершини графу
-            int[,] arcs = GraphStat.FindArc(sumMatrix, sumMatrix.createMatrix(g, result));
-
-            Console.WriteLine();
-            for (int i = 1; i < g.GetN() + 1; i++)
-            {
-                for (int j = 0; j < 3; j++)
-                {
-                    Console.Write($"{arcs[i, j]}  ");
-                }
-                Console.WriteLine();
-            }
-
-
-            //7висячі
-            Console.WriteLine();
-            GraphStat.isHanging(sumMatrix, arcs);
-
-            //7ізольовані
-            Console.WriteLine();
-            GraphStat.isIsolated(sumMatrix, arcs);
-
-            //8Обхід вглиб
-            Console.WriteLine();
-            DFS dfs = new DFS();
-            dfs.Search(sumMatrix, sumMatrix.createMatrix(g, result), 8);
-            dfs.PrintTable();
-
-            //9Обхід вшир
-            BFS bfs = new BFS();
-            bfs.Search(sumMatrix, sumMatrix.createMatrix(g, result), 8);
-            bfs.PrintTable();
         }
     }
 }
