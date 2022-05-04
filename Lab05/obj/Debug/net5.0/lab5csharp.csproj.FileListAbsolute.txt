@@ -1,0 +1,32 @@
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\lab5csharp.exe
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\lab5csharp.deps.json
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\lab5csharp.runtimeconfig.json
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\lab5csharp.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\lab5csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\ref\lab5csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\bin\Debug\net5.0\lab5csharp.pdb
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.AssemblyInfo.cs
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\ref\lab5csharp.dll
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.pdb
+C:\Users\Макс\source\repos\прогр дискр структур\lab5csharp\obj\Debug\net5.0\lab5csharp.genruntimeconfig.cache
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\lab5csharp.exe
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\lab5csharp.deps.json
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\lab5csharp.runtimeconfig.json
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\lab5csharp.runtimeconfig.dev.json
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\lab5csharp.dll
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\ref\lab5csharp.dll
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\bin\Debug\net5.0\lab5csharp.pdb
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.AssemblyInfoInputs.cache
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.AssemblyInfo.cs
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.dll
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\ref\lab5csharp.dll
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.pdb
+C:\Users\unman\Desktop\programming_discrect_struct-main\Lab05\obj\Debug\net5.0\lab5csharp.genruntimeconfig.cache
