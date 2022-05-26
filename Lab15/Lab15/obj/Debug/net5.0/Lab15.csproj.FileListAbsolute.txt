@@ -1,0 +1,16 @@
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\Lab15.exe
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\Lab15.deps.json
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\Lab15.runtimeconfig.json
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\Lab15.runtimeconfig.dev.json
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\Lab15.dll
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\ref\Lab15.dll
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\bin\Debug\net5.0\Lab15.pdb
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.csproj.AssemblyReference.cache
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.GeneratedMSBuildEditorConfig.editorconfig
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.AssemblyInfoInputs.cache
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.AssemblyInfo.cs
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.dll
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\ref\Lab15.dll
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.pdb
+D:\currentdisk\University\Програмування Дискретних Структур\Labs\Lab15\Lab15\obj\Debug\net5.0\Lab15.genruntimeconfig.cache
