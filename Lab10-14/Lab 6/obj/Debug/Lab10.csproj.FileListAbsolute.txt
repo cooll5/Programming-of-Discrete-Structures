@@ -1,0 +1,11 @@
+C:\Users\unman\Desktop\Lab10 — копия\Lab 6\obj\Debug\Lab10.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\Lab10 — копия\Lab 6\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\Lab10 — копия\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\unman\Desktop\Lab10 — копия\Lab 6\obj\Debug\Lab 6.pdb
+C:\Users\unman\Desktop\Lab10-14\Lab 6\obj\Debug\Lab10.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\Lab10-14\Lab 6\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\Lab10-14\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\unman\Desktop\Lab10-14\Lab 6\obj\Debug\Lab 6.pdb
+C:\Users\unman\Desktop\Lab10-14\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\unman\Desktop\Lab10-14\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\unman\Desktop\Lab10-14\Lab 6\bin\Debug\Lab 6.pdb
